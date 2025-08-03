@@ -3,9 +3,13 @@ This project detects the name of the color in an image when you double-click on 
 ## 📁 Project Structure
 color_detect/
 ├── color_detection.py # Main script to run color detection
+
 ├── colorpic.jpg # Sample image for testing
+
 ├── Dogspic.jpg # Another sample image
+
 ├── solar_panel_banner1.jpg # Additional image (optional)
+
 ├── colors.csv # CSV containing predefined colors with names and RGB values
 
 ## 🧠 How It Works
