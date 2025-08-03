@@ -2,6 +2,7 @@
 This project detects the name of the color in an image when you double-click on any pixel. It reads RGB values, matches them to a dataset (colors.csv), and displays the closest color name.
 ## 📁 Project Structure
 color_detect/
+
 ├── color_detection.py # Main script to run color detection
 
 ├── colorpic.jpg # Sample image for testing
